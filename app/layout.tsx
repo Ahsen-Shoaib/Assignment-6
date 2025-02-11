@@ -22,8 +22,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Ibad's Website",
-  description: "Created by Ibad Uddin",
+  title: "Ahsen's Website",
+  description: "Created by Muhammad Ahsen Shoaib",
 };
 
 export default function RootLayout({
